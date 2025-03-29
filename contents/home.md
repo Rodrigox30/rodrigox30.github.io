@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![rodrigox30](https://img.shields.io/badge/rodrigox30-github-blue?logo=github)](https://github.com/rodrigox30)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Hello, my name is Rodrigo Aguilar Barrios and I am a first year PhD Computer Engineering student at the University of Southern California. I am advised by Prof. [Corey Baker](https://github.com/cbaker6) at the [Network Reconnaissance Lab](https://netrecon.usc.edu/baker/research/). My current research focuses on using machine learning to improve cancer patient care. 
 
 #### Email
-sli[at]cumt.edu.cn
+aguilarb@usc.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Computer Engineering, University of Southern California, 2024—2029 (expected).\
+B.S., Electrical Engineering and Computer Science, University of California Berkeley, 2021—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Applying machine learning and AI techniques to address challenges in remote patient monitoring
 
